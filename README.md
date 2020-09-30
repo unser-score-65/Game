@@ -1,3 +1,3 @@
 # Game
-Just a dummie
+This is just a dummie
 
